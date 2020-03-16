@@ -1,0 +1,4 @@
+column table "pro1.db1::emp"(
+	
+	empid int
+)
