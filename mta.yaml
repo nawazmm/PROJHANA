@@ -9,6 +9,9 @@ modules:
    requires:
     - name: hdi_db1
 
+
+ 
+
 resources:
  - name: hdi_db1
    properties:
